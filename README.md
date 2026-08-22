@@ -33,4 +33,4 @@ An AI-powered web app for polyhouse crop monitoring, disease detection, fertiliz
 
 ## License
 
-© 2026 [Your Name]. All rights reserved.
+© 2026 [sumit senapati]. All rights reserved.
